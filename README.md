@@ -221,13 +221,4 @@ rural-ai-learning/
 Full Stack Developer
 📧 Email: [sabharishc98@gmail.com](mailto:sabharishc98@gmail.com)
 
----
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-Just tell me 😎
-```
